@@ -1,5 +1,5 @@
 {
-  "name": "packagedownloader",
+  "name": "downloadpackage",
   "version": "1.0.0",
   "description": "Package Downloader Task",
   "main": "downloadPackages.js",
